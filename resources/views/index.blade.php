@@ -76,7 +76,7 @@
             </div>
             <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/fondo-principal.jpeg)">
             </div>
-            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/fondo-principal.jpeg)">
+            <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/fondo-principall.jpeg)">
             </div>
             <div class="carousel-item" style="background-image: url(/assets/img/hero-carousel/fondo-principal.jpeg)">
             </div>
